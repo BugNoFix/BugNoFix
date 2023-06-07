@@ -1,20 +1,25 @@
-# **👋** Hello, I’m Marco
+<h1 align="center">Hi 👋, I'm Marco</h1>
+<h3 align="center">I'm passionate about all things related to computer science and technology.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+&nbsp;
 
-My name is **Marco Minaudo**, and I'm passionate about all things related to computer science and technology.
+- 🎓 I am currently pursuing a bachelor's degree in **computer engineering** [Politecnico di Milano](https://www.polimi.it/)
 
-I am pursuing a bachelor's degree in **computer engineering** 🎓 at Politecnico di Milano **🏢**
+- 👨‍💻 All of my projects are available at [Marco's repos](https://github.com/BugNoFix?tab=repositories)
+
+- 🏠 I'm living in **Rome** 🇮🇹
+
+- 📫 How to reach me **marco.minaudo.mm@gmail.com**
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marco-minaudo-803469258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco-minaudo-803469258/" height="30" width="40" /></a>
+</p>
+
 
 <!--
-**BugNoFix/BugNoFix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">My project</h1>
 -->
