@@ -1,5 +1,3 @@
-# Readme
-
 # **👋** Hello, I’m Marco
 
 My name is **Marco Minaudo**, and I'm passionate about all things related to computer science and technology.
