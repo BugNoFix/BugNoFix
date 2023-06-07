@@ -1,4 +1,10 @@
-### Hi there 👋
+# Readme
+
+# **👋** Hello, I’m Marco
+
+My name is **Marco Minaudo**, and I'm passionate about all things related to computer science and technology.
+
+I am pursuing a bachelor's degree in **computer engineering** 🎓 at Politecnico di Milano **🏢**
 
 <!--
 **BugNoFix/BugNoFix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
