@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 &nbsp;
 
-- 🎓 I am currently pursuing a bachelor's degree in **computer engineering** [Politecnico di Milano](https://www.polimi.it/)
+- 🎓 I am currently pursuing a master degree in **Artificial Intelligence** [Politecnico di Milano](https://www.polimi.it/)
 
 - 👨‍💻 All of my projects are available at [Marco's repos](https://github.com/BugNoFix?tab=repositories)
 
-- 🏠 I'm living in **Rome** 🇮🇹
+- 🏠 I'm living in **Milan** 🇮🇹
 
 - 📫 How to reach me **marco.minaudo.mm@gmail.com**
 
